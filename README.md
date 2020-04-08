@@ -1,9 +1,9 @@
 # OW
-a project for show company information
-technology stack：
-  webpack 4.0
-  vue 2.0+
-steps：  
+a project for show company information  
+technology stack：  
+  webpack 4.0  
+  vue 2.0+  
+steps：   
   1.download this project  
   2.open it in IDE tool  
   3.use "npm install" download its dependences  
